@@ -26,5 +26,5 @@ the buttons to press are swapped depending on [edgework](https://ktane.fandom.co
 ---
 
 ### Module Visual Diagram:
-[](https://static.wikia.nocookie.net/ktane/images/3/34/Simon_Says_Chart.png/revision/latest?cb=20200324202053)
+![](https://static.wikia.nocookie.net/ktane/images/3/34/Simon_Says_Chart.png/revision/latest?cb=20200324202053)
 
