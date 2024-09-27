@@ -4,8 +4,8 @@
 
 
 
-IDE : Thonny
-Taal : MicroPython
+IDE : Arduino
+Taal : C/C++
 
 
 De eerste 2 letters zijn hetzelfde bij de eerste 2 woorden
@@ -25,10 +25,13 @@ Plank
 Plons
 
 Tips : 
+
 -bepaalde leds zullen oplichten die aangeeft waar het woord met begint.
 dit staat in het boekje welke reeks leds welke eerste 2 letters is.
+
 -Nadat de bom gebruiker de eerste 2 letters correct heeft ingetypt zal er een nieuwe reeks leds aangaan.
 Deze reeks leds zal aangeven welke klinker er volgt.
+
 -Nadat de persoon de juiste klinker heeft ingegeven kan hij dit zeggen tegen zijn team.
 Het team kan dan zeggen welk woord dit is.
 
